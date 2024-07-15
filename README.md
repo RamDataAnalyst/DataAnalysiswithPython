@@ -35,5 +35,4 @@ Personal note: To run with poetry, run poetry run python main.py in terminal
 Testing
 We imported the tests from test_module.py to main.py for your convenience. The tests will run automatically whenever you hit the "run" button.
 
-Submitting
-Copy your project's URL and submit it to freeCodeCamp.
+
